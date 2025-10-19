@@ -14,7 +14,8 @@ AND and OR gates are connected to input a and b.
 
 ## How to test
 
+Set input a and b high. Look for out 0 to go high.
 
 ## External hardware
 
-
+Default
