@@ -9,6 +9,8 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
+AND and OR gates are connected to input a and b. 
+
 Explain how your project works
 
 ## How to test
