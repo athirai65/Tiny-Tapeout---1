@@ -1,10 +1,10 @@
 # Tiny Tapeout project information (Wokwi project)
-project:
-  wokwi_id:     0       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        ""      # Project title
-  author:       ""      # Your name
+  project:
+  wokwi_id:     0     445262455513487361 # Set this to the ID of your Wokwi project (the number from the project's URL)
+  title:             "Tiny Tapeout Test Games" # Project title
+  author:            "Athirai M" # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  description:  ""      "Test some logic gates." # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
@@ -16,22 +16,22 @@ project:
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout:
   # Inputs
-  ui[0]: ""
-  ui[1]: ""
-  ui[2]: ""
-  ui[3]: ""
-  ui[4]: ""
-  ui[5]: ""
+  ui[0]: "Input a AND Gate"
+  ui[1]: "Input b AND Gate"
+  ui[2]: "Input a of OR Gate 1"
+  ui[3]: "Input b of OR Gate 1"
+  ui[4]: "Input a of OR Gate 2"
+  ui[5]: "Input b of OR Gate 2"
   ui[6]: ""
   ui[7]: ""
 
   # Outputs
-  uo[0]: ""
-  uo[1]: ""
+  uo[0]: "Output a of AND Gate"
+  uo[1]: "Output b of AND Gate"
   uo[2]: ""
-  uo[3]: ""
-  uo[4]: ""
-  uo[5]: ""
+  uo[3]: "Output a of OR Gate 1"
+  uo[4]: "Output b of OR Gate 1"
+  uo[5]: "Outout a of OR Gate 2"
   uo[6]: ""
   uo[7]: ""
 
